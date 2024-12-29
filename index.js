@@ -634,5 +634,5 @@ message.channel.send(embed)
 })
 
 client.login(process.env.token).catch(() =>{
-    console.log("Invalid Token")
+    console.log("MTMyMjk0MjM5MzY0MDU1NDUwNg.GSaXGK.AVvDgnZrQDq-5QioDQtAxt9bmoMJq8kl0zTWgw")
 })
